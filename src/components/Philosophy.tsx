@@ -13,7 +13,7 @@ export function Philosophy() {
             {/* Decorative accent */}
             <div className="absolute bottom-6 left-6 right-6 p-6 bg-background/90 backdrop-blur-sm rounded-lg">
               <p className="text-sm text-muted-foreground italic">
-                «Когда жизнь и работа движутся в гармонии, лучшие идеи не просто появляются — они текут сами собой.»
+                «Скандинавская концепция "хвиле" — это не лень. Это осознанный отдых как часть продуктивности.»
               </p>
             </div>
           </div>
@@ -22,21 +22,21 @@ export function Philosophy() {
           <div className="flex flex-col gap-8">
             <span className="text-sm uppercase tracking-widest text-sage">Наша философия</span>
             <h2 className="font-serif text-4xl md:text-5xl tracking-tight text-foreground leading-tight text-balance">
-              Осознанная работа и тихий фокус
+              Глубокий фокус рождается в тишине
             </h2>
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Hvile родился из простого наблюдения: самая значимая работа редко происходит среди постоянных
-                уведомлений и бесконечных списков задач. Она рождается в моменты тишины.
+                Мы живём в культуре постоянной занятости — когда «быть занятым» стало синонимом «быть успешным».
+                Но реальные результаты дают не количество задач, а глубина погружения в работу.
               </p>
               <p>
-                Мы создали инструмент, который уважает ритм глубокой работы — создаёт пространство для концентрации,
-                рефлексии и того сосредоточенного внимания, которое превращает обычные задачи в мастерство.
+                Hvile построен на принципах скандинавской философии: чередование глубокой работы и настоящего восстановления.
+                Не 20 вкладок одновременно — а одна задача, полная тишина, и пространство для мысли.
               </p>
             </div>
             <div className="pt-4">
               <a href="#features" className="inline-flex items-center gap-2 text-foreground group">
-                <span className="border-b border-foreground pb-0.5">Наш подход</span>
+                <span className="border-b border-foreground pb-0.5">Как это работает</span>
                 <span className="text-terracotta group-hover:translate-x-1 transition-transform duration-300">→</span>
               </a>
             </div>
